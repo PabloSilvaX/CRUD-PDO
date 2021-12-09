@@ -21,6 +21,6 @@
     <!-- Constande (base url) -->
     <?php include_once 'config/base.php'; ?>
 
-    <title>Crud - PHP(PDO)</title>
+    <title>Crud - PHP (PDO)</title>
 </head>
 <body class="bg-personalizado">
