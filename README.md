@@ -20,4 +20,4 @@ Organização de Arquivos:
 
 *Observação: O campo de Busca de usuários ultiliza-se de um `fetch()` uma api do JAVASCRIPT para acessar e manipular partes do pipeline HTTP, tais como os pedidos e respostas. Muito parecida com `jQuery.ajax()`*
 
-Feito por: [Pablo Silva](https://github.com/PabloSilvaX) :writing_hand: :heart:
+*Feito por: [Pablo Silva](https://github.com/PabloSilvaX) :writing_hand: :heart:*
