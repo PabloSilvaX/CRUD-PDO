@@ -1,8 +1,8 @@
 # CRUD com PDO
-    Sistema de CRUD (Create, Read, Update, Delete) básico para criação de usuários, edição de dados dos usuários, busca de dados de usuário e deleção de usuários. Feito com PDO (PHP Data Object).
+Sistema de CRUD (Create, Read, Update, Delete) básico para criação de usuários, edição de dados dos usuários, busca de dados de usuário e deleção de usuários. Feito com PDO (PHP Data Object).
 ---
 ### Detalhes do Projeto:
-    A home trata-se de uma tela inicial com cards para criação e listagem/gerencia de usuarios, entrando no cadastro é disponibilizado um formulário para criação, na listagem é disponibilizado uma lista de todos usuarios cadastrados com botões para vizualicação/edição/deleção dos mesmos. No canto superior direito (no navbar) é possivel buscar por usuários por seu nome e assim vizualizar seus dados.
+A home trata-se de uma tela inicial com cards para criação e listagem/gerencia de usuarios, entrando no cadastro é disponibilizado um formulário para criação, na listagem é disponibilizado uma lista de todos usuarios cadastrados com botões para vizualicação/edição/deleção dos mesmos. No canto superior direito (no navbar) é possivel buscar por usuários por seu nome e assim vizualizar seus dados.
 
 Tecnologias Usadas:
 * HTML
