@@ -1,0 +1,31 @@
+.bg-personalizado{
+    background-color: darkslateblue;
+}
+
+.resultado{
+    display: none;
+    position: absolute;
+    /* deixando na frente de tudo */
+    z-index:999; 
+    top: 48px;
+    right: 50px;
+    width:210px;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: white;
+}
+
+.itembusc{
+    color:black;
+    border-bottom: solid 1px rgba(0, 0, 0, 0.280);
+    padding: 10px;
+}
+
+.itembusc:hover{
+    background-color: whitesmoke;
+    border-radius: 3px;
+}
+
+.itembusc a{
+    color:black;
+}
